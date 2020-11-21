@@ -5,7 +5,6 @@ char* reverse(char *);
 int main(int argc,char *argv[])
 {
 	char check;
-	int i;
 	char str[80];
 	char *str_ptr;
 	printf_s("Enter String : ");
